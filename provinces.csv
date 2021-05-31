@@ -1,0 +1,136 @@
+﻿Territorio;
+Italia;59257566
+  Nord-ovest;15873902
+    Piemonte;4273210
+      Torino;2212996
+      Vercelli;167189
+      Novara;362199
+      Cuneo;582353
+      Asti;209648
+      Alessandria;411922
+      Biella;171838
+      Verbano-Cusio-Ossola;155065
+    Valle d'Aosta / Vallée d'Aoste;123895
+      Valle d'Aosta / Vallée d'Aoste;123895
+    Liguria;1509805
+      Imperia;208585
+      Savona;268766
+      Genova;816916
+      La Spezia;215538
+    Lombardia;9966992
+      Varese;879929
+      Como;594671
+      Sondrio;179234
+      Milano;3249821
+      Bergamo;1099621
+      Brescia;1247583
+      Pavia;534951
+      Cremona;351698
+      Mantova;403585
+      Lecco;332593
+      Lodi;225885
+      Monza e della Brianza;867421
+  Nord-est;11575215
+    Trentino Alto Adige / Südtirol;1078460
+    Provincia Autonoma Bolzano / Bozen;533715
+      Bolzano / Bozen;533715
+    Provincia Autonoma Trento;544745
+      Trento;544745
+    Veneto;4852453
+      Verona;922291
+      Vicenza;850379
+      Belluno;199599
+      Treviso;878070
+      Venezia;842942
+      Padova;929520
+      Rovigo;229652
+    Friuli-Venezia Giulia;1198753
+      Udine;523416
+      Gorizia;136809
+      Trieste;229470
+      Pordenone;309058
+    Emilia-Romagna;4445549
+      Piacenza;284075
+      Parma;453604
+      Reggio nell'Emilia;526349
+      Modena;704672
+      Bologna;1019539
+      Ferrara;341967
+      Ravenna;386309
+      Forlì-Cesena;393556
+      Rimini;335478
+  Centro;11755548
+    Toscana;3668333
+      Massa-Carrara;189841
+      Lucca;380676
+      Pistoia;290819
+      Firenze;986001
+      Livorno;329590
+      Pisa;416425
+      Arezzo;336870
+      Siena;263526
+      Grosseto;218538
+      Prato;256047
+    Umbria;865013
+      Perugia;643311
+      Terni;221702
+    Marche;1501406
+      Pesaro e Urbino;354139
+      Ancona;465023
+      Macerata;307421
+      Ascoli Piceno;204575
+      Fermo;170248
+    Lazio;5720796
+      Viterbo;306934
+      Rieti;151668
+      Roma;4227588
+      Latina;561139
+      Frosinone;473467
+  Sud;13613800
+    Abruzzo;1285256
+      L'Aquila;292356
+      Teramo;301814
+      Pescara;314689
+      Chieti;376397
+    Molise;296547
+      Campobasso;214629
+      Isernia;81918
+    Campania;5679759
+      Caserta;911606
+      Benevento;269233
+      Napoli;3017658
+      Avellino;405963
+      Salerno;1075299
+    Puglia;3926931
+      Foggia;601419
+      Bari;1222818
+      Taranto;560048
+      Brindisi;382454
+      Lecce;777507
+      Barletta-Andria-Trani;382685
+    Basilicata;547579
+      Potenza;354122
+      Matera;193457
+    Calabria;1877728
+      Cosenza;684786
+      Catanzaro;346514
+      Reggio di Calabria;526586
+      Crotone;166617
+      Vibo Valentia;153225
+  Isole;6439101
+    Sicilia;4840876
+      Trapani;418363
+      Palermo;1214291
+      Messina;609223
+      Agrigento;419847
+      Caltanissetta;252803
+      Enna;158183
+      Catania;1066765
+      Ragusa;314950
+      Siracusa;386451
+    Sardegna;1598225
+      Sassari;481052
+      Nuoro;202951
+      Cagliari;420117
+      Oristano;153226
+      Sud Sardegna;340879
